@@ -1,8 +1,8 @@
 ---
-name: Desktop Issue
-about: 'Template for logging issues on Desktop '
-title: "[Desktop]"
-labels: OS/Desktop
+name: Desktop and Android Issue
+about: 'Template for logging issues that affect both Desktop and Android'
+title: ""
+labels: OS/Desktop, OS/Android
 assignees: ''
 
 ---
@@ -34,9 +34,14 @@ INSUFFICIENT INFO WILL GET THE ISSUE CLOSED. IT WILL ONLY BE REOPENED AFTER SUFF
 <!--[Easily reproduced/Intermittent issue/No steps to reproduce]-->
 
 
-## Brave version (brave://version info)
+## Desktop Brave version:
 <!--For installed build, please copy Brave, Revision and OS from brave://version and paste here. If building from source please mention it along with brave://version details-->
 
+
+## Android Device details:
+   - Install type (ARM, x86):
+   - Device type (Phone, Tablet, Phablet):
+   - Android version:
 
 ## Version/Channel Information:
 <!--Does this issue happen on any other channels? Or is it specific to a certain channel?-->
