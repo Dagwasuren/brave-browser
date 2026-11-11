@@ -1,7 +1,7 @@
-# Network auditor
-lib/whitelistedUrlPatterns.js @brave/sec-team
-lib/whitelistedUrlPrefixes.js @brave/sec-team
-
+* @brave/devops-team
+/.github/ISSUE_TEMPLATE/ @brave/uplift-approvers
+/.github/ISSUE_TEMPLATE.md @brave/uplift-approvers
+/.github/PULL_REQUEST_TEMPLATE.md @brave/uplift-approvers
+/CHANGELOG_* @brave/uplift-approvers
 lib/util.js @bridiver
 lib/build.js @bridiver
-
